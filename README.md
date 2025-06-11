@@ -21,12 +21,11 @@ This repo includes my personal notes, lab configurations, quizzes, useful resour
 ## 🧠 Learning Roadmap
 
 - [ ] 01 - Network Fundamentals  
-- [ ] 02 - Switching  
-- [ ] 03 - Routing  
-- [ ] 04 - WAN Technologies  
+- [ ] 02 - Network Access
+- [ ] 03 - IP Connectivity
+- [ ] 04 - IP Services  
 - [ ] 05 - Security Fundamentals  
-- [ ] 06 - IP Services  
-- [ ] 07 - Automation & Programmability
+- [ ] 06 - Automation & Programmability
 
 ---
 
