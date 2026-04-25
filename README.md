@@ -40,7 +40,6 @@ This repo includes my personal notes, lab configurations, quizzes, useful resour
 ## 📚 Recommended Resources
 
 - [Cisco NetAcad](https://www.netacad.com/)
-- [NetworkChuck (YouTube)](https://www.youtube.com/c/NetworkChuck)
 - [Jeremy’s IT Lab (YouTube)](https://www.youtube.com/c/JeremysITLab)
 - *CCNA 200-301 Official Cert Guide* by Cisco Press
 
